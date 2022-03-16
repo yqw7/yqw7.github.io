@@ -8,12 +8,12 @@
   <tr>
     <td>5.1</td>
     <td>Beneficial and Harmful Effects</td>
-    <td><a href="https://stanleyy03840.github.io/51%22%3ELink</a></td>
+    <td><a href="https://yqw7.github.io/51">Link</a></td>
   </tr>
   <tr>
     <td>5.2</td>
    <td>Digital Divide</td>
-    <td><a href="https://stanleyy03840.github.io/52%22%3ELink</a></td>
+    <td><a href="https://yqw7.github.io/52">Link</a></td>
   </tr>
 </table>
 
@@ -41,4 +41,3 @@
     <td>link</td>
     <td>link</td>
   </tr>
-</table>
